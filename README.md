@@ -1,5 +1,11 @@
  ![](https://github-readme-stats.vercel.app/api?username=xp-bear&show_icons=true)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc&show_owner=true)](https://github.com/YituHealthcare/Arc)
 
+
+作者：crick77
+链接：https://ld246.com/article/1602996971277
+来源：链滴
+协议：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 ### Hi there 👋
 
 **Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
