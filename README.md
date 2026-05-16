@@ -1,15 +1,3 @@
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=xp-bear&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=xp-bear&theme=radical&hide_border=true" alt="streak stats" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xp-bear&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs" /></td>
-    </tr>
-  </table>
-</div>
-
 ## 🧸 关于我
 
 > ✨ **我不是一个天才，所以得一直努力。**  
@@ -25,7 +13,6 @@
 ## 🛠️ 技术栈 & 工具
 
 <div align="center">
-
   <!-- 核心前端技能 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,10 +36,7 @@
 ## 📊 GitHub 数据分析
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xp-bear&show_icons=true&theme=radical&hide_border=true&include_all_commits&count_private=true" alt="GitHub stats" />&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=xp-bear&theme=radical&hide_border=true" alt="streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xp-bear&layout=compact&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="most used languages" />
 </p>
 
 ---
@@ -75,8 +59,8 @@
 
 ## 🌟 小彩蛋
 
-<div align="center">
-```text
+```tex
   🧗‍♂️ 一步一步，走向更远的风景。
   🐻 不赶什么浪潮，也不搭什么船，我自己有海。
 ```
+
