@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=500&lines=🐻+想走过亚洲的熊;Never+give+up;Always+keep+learning" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=xp-bear&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" /></td>
+      <td><img align="center" src="https://github-readme-streak-stats.vercel.app?user=xp-bear&theme=radical&hide_border=true" alt="streak stats" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xp-bear&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs" /></td>
+    </tr>
+  </table>
 </div>
 
 ## 🧸 关于我
@@ -44,7 +52,7 @@
   <table>
     <tr>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=xp-bear&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" /></td>
-      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xp-bear&theme=radical&hide_border=true" alt="streak stats" /></td>
+      <td><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=xp-bear&theme=radical&hide_border=true" alt="streak stats" /></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xp-bear&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs" /></td>
