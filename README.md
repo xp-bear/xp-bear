@@ -39,15 +39,7 @@
   <img src="https://streak-stats.demolab.com/?user=xp-bear&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
----
 
-## 🏆 成就勋章
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xp-bear&theme=radical&no-frame=true&row=2&column=4" alt="trophy" />
-</div>
-
----
 
 ## 📈 贡献活动图
 
