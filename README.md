@@ -34,26 +34,7 @@
 
 ---
 
-## 📊 GitHub 数据分析
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xp-bear&theme=radical&hide_border=true" alt="streak stats" />
-</p>
 
 
 
-## 📈 贡献活动图
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xp-bear&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="90%" />
-</div>
-
----
-
-## 🌟 小彩蛋
-
-```tex
-  🧗‍♂️ 一步一步，走向更远的风景。
-  🐻 不赶什么浪潮，也不搭什么船，我自己有海。
-```
 
